@@ -1,2 +1,7 @@
-# ekonomi
-Dokumentasi materi ekonomi.
+---
+description: Dokumentasi materi ekonomi.
+---
+
+# Ekonomi
+
+Dalam tahap pengembangan.
